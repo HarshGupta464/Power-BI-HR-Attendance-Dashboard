@@ -59,6 +59,7 @@ It provides a clear snapshot of attendance patterns, enabling **data-driven deci
 
 ## 📸 Dashboard Preview
 
+<img width="1229" height="600" alt="image" src="https://github.com/user-attachments/assets/ee8f232c-05d0-4ae3-8f21-eaa197e174b4" />
 
 
 ---
