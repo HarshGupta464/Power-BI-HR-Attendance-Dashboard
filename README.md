@@ -57,6 +57,12 @@ It provides a clear snapshot of attendance patterns, enabling **data-driven deci
 
 ---
 
+## 📸 Dashboard Preview
+
+
+
+---
+
 ### 🔗 Connect with Me  
 👤 **Harsh Gupta**  
 📍 Founder at Ecokriti | Data Analytics Enthusiast  
